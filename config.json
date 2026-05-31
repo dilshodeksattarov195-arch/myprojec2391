@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvpdate",
+        "uuid": 7962030,
+        "checksum": "j1kyvn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
